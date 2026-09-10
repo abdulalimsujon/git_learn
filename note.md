@@ -81,17 +81,6 @@ Unstaged Changes
 git diff --staged
 ```
 
-অর্থাৎ:
-
-```text
-Working Directory
-       ↓ git add
-Staging Area
-       ↓
-git diff --staged
-       ↓
-Review staged changes
-```
 
 > এটি remote-এ push করার আগের পরিবর্তন সরাসরি দেখায় না; মূলত staged changes review করার জন্য ব্যবহৃত হয়।
 
