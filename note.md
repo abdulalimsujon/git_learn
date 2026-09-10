@@ -314,7 +314,7 @@ git reset --hard tshr/main
 
 অর্থাৎ remote-tracking branch-এর current state-এর সাথে local state মিলিয়ে দেওয়া হয়।
 
-⚠️ Local uncommitted changes হারিয়ে যেতে পারে।
+ Local uncommitted changes হারিয়ে যেতে পারে।
 
 ---
 
